@@ -17,7 +17,7 @@ O projeto foi construído sob os pilares de **Mobile First Design** (foco em dis
 - **Segurança:** Arquitetura focada em anonimato de dados e criptografia básica.
 
 ## 📱 Protótipo da Interface
-*(Dica: Coloque as imagens das telas do celular aqui para chamar a atenção no repositório!)*
+
 <p align="center">
   <img src="./path-para-sua-imagem-do-mapa.jpg" width="300" alt="Tela do Mapa de Calor" />
   <img src="./path-para-sua-imagem-do-botao-panico.jpg" width="300" alt="Tela do Botão de Pânico" />
