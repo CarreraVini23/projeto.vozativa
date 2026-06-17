@@ -19,7 +19,7 @@ O projeto foi construído sob os pilares de **Mobile First Design** (foco em dis
 ## 📱 Protótipo da Interface
 
 <p align="center">
-  <img src="./path-para-sua-imagem-do-mapa.jpg" width="300" alt="Tela do Mapa de Calor" />
+  <img src="./Screenshot_20260616_214943_Drive.jpg" width="300" alt="Tela do Mapa de Calor" />
   <img src="./path-para-sua-imagem-do-botao-panico.jpg" width="300" alt="Tela do Botão de Pânico" />
 </p>
 
